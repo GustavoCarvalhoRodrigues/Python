@@ -9,3 +9,4 @@ aluno_4 = input('Qual o nome do quarto(a) aluno(a): ')
 ordem_sorteada = [aluno_1, aluno_2, aluno_3, aluno_4]
 shuffle(ordem_sorteada)
 print(f'A ordem de apresentação foi: {ordem_sorteada}')
+
