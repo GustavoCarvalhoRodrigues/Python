@@ -4,7 +4,7 @@
 Este repositório contém minhas anotações, exercícios e projetos desenvolvidos durante o Curso de Python 3 oferecido pelo Professor Gustavo Guanabara no Curso em Vídeo.
 
 📚 Estrutura do Curso
-O curso é dividido em três módulos principais, denominados "Mundos":
+O curso é dividido em quatro módulos principais, denominados "Mundos":
 
 Mundo 1: Fundamentos
 Introdução à programação
